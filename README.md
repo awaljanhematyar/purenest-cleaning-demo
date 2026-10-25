@@ -2,6 +2,12 @@
 
 A premium, responsive **fictional Calgary cleaning business demonstration**, built with React 19, Vite, Tailwind CSS 4, React Router, and Lucide React. No actual cleaning services, bookings, testimonials, or customer information collection.
 
+**Live demo:** https://purenest-cleaning-demo.vercel.app
+
+**GitHub:** https://github.com/awaljanhematyar/purenest-cleaning-demo
+
+Production was verified on October 25, 2026: all nine Playwright scenarios passed against the actual public URL. See `QA.md` for scope and limitations.
+
 ## Run locally
 
 Use Node.js 22.12+ (Node 24 supported).
